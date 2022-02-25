@@ -10,3 +10,5 @@ At the moment are implemented:
  - SARSA as presented by Sutton and Barto in "Reinforcement Learning: An Introduction"
 
 SARSA($\lambda$) should be coming next.
+
+![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}) 
